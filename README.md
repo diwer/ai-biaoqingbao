@@ -2,7 +2,7 @@
 
 **持续更新 · 动效舒缓优化（2026-10-25）**。大肥鱼（蓝发鲸鱼娘 / DeepSeek 社区拟人形象）中文表情二创整理，包含日常回应、抽象反应、打工摸鱼、陪伴与祝福。
 
-[在线宣传页与动图预览](https://diwer.github.io/ai-biaoqingbao/) · [手机轻量包](downloads/dafeiyu-240.zip) · [512清晰包](downloads/dafeiyu-512.zip) · [动效说明](docs/MOTION.md) · [来源与许可](NOTICE.txt)
+[在线宣传页与动图预览](https://diwer.github.io/ai-biaoqingbao/) · [手机轻量包](downloads/dafeiyu-240.zip) · [512清晰包](downloads/dafeiyu-512.zip) · [透明 WebP 轻量包](downloads/dafeiyu-webp-240.zip) · [透明 WebP 高清包](downloads/dafeiyu-webp-512.zip) · [动效说明](docs/MOTION.md) · [来源与许可](NOTICE.txt)
 
 ## 热点含义与常用表达
 
@@ -16,7 +16,7 @@
 
 - 240×240 轻量 GIF：适合手机传输和个人收藏。
 - 512×512 清晰 GIF：保留更清晰细节。
-- 网页采用压缩动态 WebP 预览，下载仍提供原版 GIF；预览压缩不改变下载素材。
+- 网页优先使用透明动态 WebP 预览；浏览器不支持 WebP 时回退到 GIF。240×240 与 512×512 均提供独立 WebP 包，原 GIF 包继续保留。
 - ZIP 需要先解压，保留 GIF 原文件；不要截图后当作动图导入。
 - 微信：手机聊天表情 → 爱心/自定义页 → 若有“+”则从相册添加；或查找“我 → 表情 → 设置 → 添加的单个表情”。版本入口可能不同。
 - 小红书：未确认通用的整套 GIF 导入功能。可在私信图片入口尝试发送；仅当长按菜单出现收藏/添加时使用。部分入口可能转静态图。
